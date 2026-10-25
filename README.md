@@ -14,7 +14,7 @@ JECT 5기 1팀의 기획 문서 저장소입니다. **원본은 팀 노션**이�
 
 | 문서 | 답하는 질문 | 주로 보는 사람 | 위치 |
 |---|---|---|---|
-| MVP | 이번 버전에 무엇을 넣고 뺄지, 왜 | 전원 | [docs/01_mvp/mvp-v0.7.md](docs/01_mvp/mvp-v0.7.md) |
+| MVP | 이번 버전에 무엇을 넣고 뺄지, 왜 | 전원 | [docs/01_mvp/mvp-v0.8.md](docs/01_mvp/mvp-v0.8.md) |
 | 요구사항 정의서 | **무엇을** 만들지 (REQ-ID · 우선순위 · MVP 여부) | 전원 | [docs/02_requirements/requirements.md](docs/02_requirements/requirements.md) |
 | 기능 명세서 | 화면에서 **어떻게** 동작하는지 (진입 → 동작 → 조건 → 예외 → 결과) | FE · PD | [docs/03_functional-spec/](docs/03_functional-spec/README.md) (영역별 파일) |
 | 정책서 | 여러 기능에 걸치는 **규칙 · 기준값** | BE · 운영 | [docs/04_policy/policy.md](docs/04_policy/policy.md) |
@@ -52,7 +52,7 @@ JECT 5기 1팀의 기획 문서 저장소입니다. **원본은 팀 노션**이�
 
 **MVP → 요구사항 → 기능 명세 → 정책 → 이용약관 → 와이어프레임 · 플로우차트 · IA → 팀 공지**
 
-- MVP는 버전마다 새 파일(`mvp-v0.7.md`)로 만들고, 나머지 문서는 같은 파일을 고칩니다.
+- MVP는 버전마다 새 파일(`mvp-v0.8.md`)로 만들고, 나머지 문서는 같은 파일을 고칩니다.
 - 고친 뒤 이어진 ID끼리 상태 · MVP 포함 여부가 맞는지 확인합니다.
 
 ## 변경 기록
