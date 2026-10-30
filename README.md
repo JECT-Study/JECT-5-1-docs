@@ -14,7 +14,7 @@ JECT 5기 1팀의 기획 문서 저장소입니다. **2026-10-31부터 이 저�
 
 | 문서 | 답하는 질문 | 주로 보는 사람 | 위치 |
 |---|---|---|---|
-| MVP | 이번 버전에 무엇을 넣고 뺄지, 왜 | 전원 | [docs/01_mvp/mvp-v0.8.md](docs/01_mvp/mvp-v0.8.md) |
+| MVP | 이번 버전에 무엇을 넣고 뺄지, 왜 | 전원 | [docs/01_mvp/mvp-v0.9.md](docs/01_mvp/mvp-v0.9.md) |
 | 요구사항 정의서 | **무엇을** 만들지 (REQ-ID · 우선순위 · MVP 여부) | 전원 | [docs/02_requirements/requirements.md](docs/02_requirements/requirements.md) |
 | 기능 명세서 | 화면에서 **어떻게** 동작하는지 (진입 → 동작 → 조건 → 예외 → 결과) | FE · PD | [docs/03_functional-spec/](docs/03_functional-spec/README.md) (영역별 파일, H = 관리자 페이지) |
 | 정책서 | 여러 기능에 걸치는 **규칙 · 기준값** | BE · 운영 | [docs/04_policy/policy.md](docs/04_policy/policy.md) |
