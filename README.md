@@ -32,6 +32,7 @@ JECT 5기 1팀의 기획 문서 저장소입니다. **2026-10-31부터 이 저�
 | 기능 명세서 | 화면에서 **어떻게** 동작하는지 (진입 → 동작 → 조건 → 예외 → 결과) | FE · PD | [docs/03_functional-spec/](docs/03_functional-spec/README.md) (영역별 파일, H = 관리자 페이지) |
 | 정책서 | 여러 기능에 걸치는 **규칙 · 기준값** | BE · 운영 | [docs/04_policy/policy.md](docs/04_policy/policy.md) |
 | 이용약관 | 사용자와의 **법적 약속** | 사용자 | [docs/05_terms/terms.md](docs/05_terms/terms.md) (초안 · 개인정보 처리방침은 작성 전) |
+| 회의록 | 정기회의에서 무엇을 정했는지 | 전원 | [docs/06_meetings/](docs/06_meetings/README.md) |
 | 변경 요약 | 버전마다 무엇이 바뀌었는지 | 전원 | [CHANGELOG.md](CHANGELOG.md) |
 
 2026-10-31부터 원본은 이 저장소입니다 (기능 명세 v0.5.2부터). 노션의 기획 문서는 v0.5.1까지이며 더 고치지 않습니다. 두 곳이 다르면 이 저장소가 맞습니다.
